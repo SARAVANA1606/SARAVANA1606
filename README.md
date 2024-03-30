@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I am Saravanakumar M
 
-<!--
-**SARAVANA1606/SARAVANA1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me:
+I am currently pursuing a B.Tech in Information Technology. I have a keen interest in programming and enjoy working with languages like C, Python, C++, and SQL. I am passionate about exploring new technologies and contributing to open-source projects.
 
-Here are some ideas to get you started:
+# Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C
+Python
+C++
+SQL
+
+
+
+Education:
+
+Bachelor of Technology in Information Technology (Expected Graduation Year - MAY 2026)
+Contact:
+
+Email: saravanakumarm401@gmail.com
+LinkedIn: https://www.linkedin.com/in/saravana98659/
+
+Feel free to customize this template with more details about your projects, education, and any other relevant information you'd like to include on your GitHub profile.
