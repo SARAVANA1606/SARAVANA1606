@@ -5,9 +5,9 @@ I am currently pursuing a B.Tech in Information Technology. I have a keen intere
 
 ## Languages:
 
-C
+
 Python
-C++
+
 SQL
 
 
